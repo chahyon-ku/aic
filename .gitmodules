@@ -1,0 +1,3 @@
+[submodule "aic_policy"]
+	path = aic_policy
+	url = https://github.com/chahyon-ku/aic_policy
